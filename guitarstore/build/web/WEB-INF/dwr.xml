@@ -1,0 +1,12 @@
+<!DOCTYPE dwr PUBLIC
+	"-//GetAhead Limited//DTD Direct Web Remoting 2.0//EN"
+	"http://getahead.org/dwr/dwr20.dtd">
+
+<dwr>
+	<allow>
+		<create creator="new" javascript="GuitarService">
+			<param name="class" value="com.guitarstore.service.GuitarServiceImplJdbc" />
+			<include method="findGuitars" />
+		</create>
+	</allow>
+</dwr>

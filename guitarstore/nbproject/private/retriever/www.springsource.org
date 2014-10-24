@@ -1,0 +1,747 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>SpringSource.org | </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="SpringSource.org RSS" href="http://www.springsource.org/node/feed" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fckeditor/fckeditor.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/framework/nice_menus.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/event/event.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/framework/html-elements.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/framework/style.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/framework/layout.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/framework/framework.css?o" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/all/themes/zen/framework/ie.css" type="text/css">
+      <![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js?o"></script>
+<script type="text/javascript" src="/misc/drupal.js?o"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?o"></script>
+<script type="text/javascript" src="/sites/all/themes/zen/framework/scripts/jquery.validate.pack.js?o"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+<!--<script type="text/javascript" src="//scripts/jquery.validate.pack.js"></script>-->
+  <!-- Begin Google Analytics code --><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2728886-3");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+</script><!-- End Google Analytics code -->
+</head>
+
+<body class="front not-logged-in page-node two-sidebars">
+
+  <div id="page"><div id="page-inner">
+
+    <a name="top" id="navigation-top"></a>
+    <div id="skip-to-nav">
+	                      <div id="secondary">
+              <ul class="links"><li class="menu-4326 first"><a href="http://www.springsource.com/support">Support</a></li>
+<li class="menu-4325 last"><a href="http://www.springsource.com/contact">Contact</a></li>
+</ul>            </div> <!-- /#secondary -->
+                                <div id="search-box">
+              <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+<a href="http://www.springsource.com/de">
+<img title="Deutsch" style="" src="/sites/all/themes/zen/framework/images/deutsch.png"/>
+</a>
+<a href="http://www.springsource.com/fr">
+<img title="Francais" style="" src="/sites/all/themes/zen/framework/images/francais.png"/>
+</a>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+  <input type="hidden" name="form_build_id" id="form-dd27578d13659964af85f51eae06d3d1" value="form-dd27578d13659964af85f51eae06d3d1"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+  <input type="image" src="/sites/all/themes/zen/framework/images/button-circle-arrow_green.png" name="op" id="edit-submitpic" value="Search" style="top:4px; position:relative;"/>
+</div>
+
+
+</div></form>
+            </div> <!-- /#search-box -->
+              </div>
+
+    <div id="header"><div id="header-inner" class="clear-block">
+
+              <div id="logo-title">
+                      <!--<div id="logo"><a href="/" title="Home" rel="home"><img src="/sites/all/themes/zen/framework/logo.png" alt="Home" id="logo-image" /></a></div> -->
+            <div id="logo"><a href="http://www.springsource.com"  title="www.springsource.com"><img src="/sites/all/themes/zen/framework/logo.png" alt="www.springsource.com" id="logo-image" /></a></div>
+                    <div id="communityimage"><a href="http://www.springsource.org/">
+<img src="/sites/all/themes/zen/framework/images/community_ex.png" id="community-image" /></a></div>
+<!--
+                                  <h1 id='site-name'><strong>
+
+              <a href="/" title="Home" rel="home">
+                SpringSource.org              </a>
+
+            </strong></h1>
+          -->
+          
+        </div> <!-- /#logo-title -->
+      
+      
+    </div></div> <!-- /#header-inner, /#header -->
+<div id="greenmenu">
+                                <div id="block-nice_menus-1" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-4289" class="menuparent menu-path-front"><a href="/" class="active">Community</a><ul><li id="menu-4290" class="menu-path-node-11"><a href="/about" title="Mission Statement and Spring Features">About</a></li>
+<li id="menu-4439" class="menu-path-front"><a href="/" class="active">News &amp; Announcements</a></li>
+<li id="menu-4293" class="menu-path-event"><a href="/event" title="Upcoming events">Events</a></li>
+<li id="menu-4440" class="menu-path-www.springone.com"><a href="http://www.springone.com">Conferences</a></li>
+<li id="menu-4305" class="menu-path-node-62"><a href="/development" title="Links Related to Developement of Spring Itself">Development</a></li>
+<li id="menu-4306" class="menu-path-jira.springframework.org"><a href="http://jira.springframework.org" title="The JIRA Issue Tracker for Spring and Spring Sub-Projects">Issue Tracker</a></li>
+<li id="menu-4405" class="menu-path-node-782"><a href="/extensions">Extensions</a></li>
+<li id="menu-4430" class="menu-path-node-830"><a href="/successstories">Success Stories</a></li>
+</ul>
+</li>
+<li id="menu-4402" class="menuparent menu-path-www.springsource.com"><a href="http://www.springsource.com">SpringSource</a><ul><li id="menu-4403" class="menu-path-www.springsource.com-products"><a href="http://www.springsource.com/products">Products</a></li>
+<li id="menu-4406" class="menu-path-www.springsource.com-services"><a href="http://www.springsource.com/services">Services</a></li>
+<li id="menu-4407" class="menu-path-www.springsource.com-news"><a href="http://www.springsource.com/news">News</a></li>
+<li id="menu-4408" class="menu-path-www.springsource.com-partners"><a href="http://www.springsource.com/partners">Partners</a></li>
+<li id="menu-4428" class="menu-path-www.springsource.com-exchange"><a href="http://www.springsource.com/exchange" title="Exchange">Exchange</a></li>
+</ul>
+</li>
+<li id="menu-4409" class="menuparent menu-path-node-64"><a href="/projects">Projects</a><ul><li id="menu-4410" class="menu-path-node-11"><a href="/about">Spring</a></li>
+<li id="menu-4411" class="menu-path-node-659"><a href="/webflow">Spring Web Flow</a></li>
+<li id="menu-4438" class="menu-path-node-898"><a href="/spring-flex">Spring BlazeDS Integration</a></li>
+<li id="menu-4412" class="menu-path-static.springsource.org-spring-ws-sites-1.5-"><a href="http://static.springsource.org/spring-ws/sites/1.5/">Spring Web Services</a></li>
+<li id="menu-4413" class="menu-path-static.springsource.org-spring-security-site-index.html"><a href="http://static.springsource.org/spring-security/site/index.html">Spring Security</a></li>
+<li id="menu-4414" class="menu-path-node-344"><a href="/osgi">Spring Dynamic Modules</a></li>
+<li id="menu-4415" class="menu-path-static.springsource.org-spring-batch-"><a href="http://static.springsource.org/spring-batch/">Spring Batch</a></li>
+<li id="menu-4416" class="menu-path-node-579"><a href="/spring-integration">Spring Integration</a></li>
+<li id="menu-11590" class="menu-path-node-1383"><a href="/roo" title="Interactive, lightweight, user customizable tooling that enables rapid delivery of high performance enterprise Java applications.">Spring Roo</a></li>
+<li id="menu-4417" class="menu-path-springide.org-blog-"><a href="http://springide.org/blog/">Spring IDE</a></li>
+<li id="menu-4423" class="menu-path-www.springsource.org-javaconfig"><a href="http://www.springsource.org/javaconfig">Spring JavaConfig</a></li>
+<li id="menu-4418" class="menu-path-www.springframework.net-"><a href="http://www.springframework.net/">Spring .NET</a></li>
+<li id="menu-4419" class="menu-path-www.springsource.org-dmserver"><a href="http://www.springsource.org/dmserver">SpringSource dm Server</a></li>
+</ul>
+</li>
+<li id="menu-4422" class="menu-path-node-2"><a href="/download">Downloads</a></li>
+<li id="menu-4294" class="menuparent menu-path-node-14"><a href="/documentation">Documentation</a><ul><li id="menu-4302" class="menu-path-node-14"><a href="/documentation">Reference</a></li>
+<li id="menu-4295" class="menu-path-opensource.atlassian.com-confluence-spring-dashboard.action"><a href="http://opensource.atlassian.com/confluence/spring/dashboard.action">Community Wiki</a></li>
+</ul>
+</li>
+<li id="menu-4420" class="menu-path-forum.springsource.org-"><a href="http://forum.springsource.org/">Forums</a></li>
+<li id="menu-4424" class="menuparent menu-path-www.springsource.com-training-nav"><a href="http://www.springsource.com/training/?nav">Training</a><ul><li id="menu-4425" class="menu-path-www.springsource.com-training-nav"><a href="http://www.springsource.com/training/?nav">Training Overview</a></li>
+<li id="menu-4426" class="menu-path-springsource.com-node-1023"><a href="http://springsource.com/node/1023">Onsite Training</a></li>
+<li id="menu-4427" class="menu-path-www.springsource.com-training-certification"><a href="http://www.springsource.com/training/certification">Certification</a></li>
+</ul>
+</li>
+<li id="menu-4429" class="menu-path-www.springsource.com-exchange"><a href="http://www.springsource.com/exchange">Exchange</a></li>
+<li id="menu-4421" class="menu-path-blog.springsource.com-main-"><a href="http://blog.springsource.com/main/">Blogs</a></li>
+</ul>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+          
+          </div>
+    <div id="main"><div id="main-inner" class="clear-block with-navbar">
+
+      <div id="content"><div id="content-inner">
+
+                  <div id="content-top">
+            <div id="block-block-13" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <!-- 
+Note: only post non-geo-targeted banners on this page. When posting a new image file, be sure to include the full path (e.g. http://www.springsource.com/files/banner.png) in the src markup. If this is not done, the banner will not show up on the forum.
+-->
+<div style="overflow: hidden; position: relative;"><a href="http://www.springsource.com/products/tcserver/devedition"><img border="0" alt="SpringSource tc Server Jumpstart" src="http://www.springsource.org/files/banners/tcServer-banner-wide.gif" /></a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+          </div> <!-- /#content-top -->
+        
+                 <div id="mission"><p>Welcome to the home of <strong>Spring</strong>, the leading platform to build and run enterprise Java applications. Led and sustained by <a href="http://www.springsource.com">SpringSource</a>, Spring delivers significant benefits for many projects, increasing development productivity and runtime performance while improving test coverage and application quality.</p></div>
+        
+
+        
+        <div id="content-area">
+          <div class="node " id="node-2281"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2281">Overview of the Spring 3.0 Web Stack</a>
+    </h2>
+  
+  
+  
+  
+  
+  <div class="content">
+    <p> 
+<div style="float: right; width:248px; padding: 10px">
+<a href="http://www.infoq.com/presentations/Introducing-Spring-Roo"><img height="173" alt="Overview of Spring 3.0 Web Stack" width="248" border="0" src="/files/SpringOne2GX2009_SpringWebOverview.png" /></a>
+</div>
+Another <a href="http://www.infoq.com">Infoq</a> video presentation has been posted that gives an <a href="http://www.infoq.com/presentations/donald-overview-spring-3.0-web-stack">Overview of the Spring 3.0 Web Stack</a>. The session was recorded at last October's <a href="http://www.springone2gx.com">SpringOne 2GX</a> 2009 conference and features, <a href="http://blog.springsource.com/author/kdonald/">Keith Donald</a>, <a href="http://www.springsource.com">SpringSource</a>'s web guru. Keith provides some quick notes for viewers:
+</p>
+<p>
+<ul>
+<li>The December GA release of Spring 3.0 shipped the additional Spring MVC simplifications predicted in this talk, including:
+  <ul>
+    <li>A dedicated 'mvc' namespace for simplifying Spring MVC setup</li>
+    <li>Automatic registration of type converters based on what is present in your classpath. This includes automatic setup of JSON (Jackson), XML (JAXB), and Joda Time support.</li>
+    <li>Support for annotation-driven formatting with @NumberFormat and @DateTimeFormat</li>
+  </ul>
+</li>
+<li>Community members interested in these capabilities can read more in this <a href="http://blog.springsource.com/2009/12/21/mvc-simplifications-in-spring-3-0">blog entry</a>. The <em>petcare</em> sample application referenced in this presentation can also be accessed in the <a href="https://src.springframework.org/svn/spring-samples/petcare/trunk">Spring Samples SVN repository</a>. This sample app is directly importable & runnable with <a href="http://www.springsource.com/products/sts">SpringSource Tool Suite</a>.
+</li>
+</ul>
+</p>
+  </div>
+
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2280"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2280">Spring Security 3.0.1 Released</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Luke Taylor on Sat, 2010-01-16 10:53    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p>We're pleased to an announce the release of Spring Security 3.0.1.</p>
+<p>This is a minor bugfix release, following on from the recent 3.0.0 release. Please see the <a href="http://static.springsource.org/spring-security/site/changelog.html">changelog</a> for a list of issues which have been addressed.</p>
+<p><a href="http://www.springsource.com/download/community?project=Spring%20Security&amp;version=3.0.1.RELEASE">Download</a> | <a href="http://static.springsource.org/spring-security/site/changelog.html">Changelog</a> | <a href="http://static.springsource.org/spring-security/site/docs/3.0.x/reference/springsecurity.html">Reference Manual</a> | <a href="http://static.springsource.org/spring-security/site/faq.html">FAQ</a></p>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2279"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/groovy-eclipse-2-0-0-released">Groovy-Eclipse 2.0.0 Released</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Christian Dupuis on Fri, 2010-01-15 13:51    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    At the start of May 2009 we announced we were working on a new approach to joint compilation for mixed Java/Groovy projects in Eclipse. We are pleased to now announce the final release of Groovy-Eclipse v2.0.0, based on that new technology. During the months of development we have rebased (and almost entirely rewritten) version 1 of the Groovy-Eclipse plugin, with the goal of offering first class Groovy support in the Eclipse IDE, comparable to the experience Java developers have in Eclipse.
+
+The most important new features that Groovy-Eclipse 2.0.0 provides are:
+
+<ul>
+<li>a new approach to compiling joint Groovy-Java code that does not require a
+stub compiler</li>
+<li>advanced and extensible content assist</li>
+<li>vast speed and memory improvements over previous releases</li>
+<li>debug support</li>
+<li>deep integration with the Java Development tools</li>
+</ul>
+
+Also, over 380 bugs have been addressed since the previous release.
+
+See the <a href="http://docs.codehaus.org/display/GROOVY/Groovy-Eclipse+2.0.0+New+and+Noteworthy" >release notes</a>. 
+
+The Eclipse update site is available here:
+
+<ul>
+<li>http://dist.springsource.org/release/GRECLIPSE/e3.5/</li>
+</ul>
+
+Please comment on the <a href="http://docs.codehaus.org/display/GROOVY/Groovy-Eclipse+Roadmap" >roadmap</a> if you want a say in the planning of future releases.  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2278"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2278">SpringSource Has Open Positions in Research and Development</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Adam Fitzgerald on Fri, 2010-01-15 12:17    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p><a href="http://www.springsource.com">SpringSource</a> is looking for some talented engineers to join the team of experts in the Research and Development group. If you enjoy challenging, genuinely rewarding roles that offer unique opportunities to work with industry leading technologists on open source based projects and products, then be sure to take a look at the following positions:</p>
+<ul>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=SOFTWARE+ENGINEER+-+SYSTEM+TEST+STRATEGIES%2c+SPRINGSOURCE&amp;jobPostId=om5am5vbnzemtiopepldditsxb&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Software Engineer</a> - SpringSource System Test Strategies (North East US)</li>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=MEMBER+OF+TECHNICAL+STAFF+-+SPRINGSOURCE+TOOLS+DEVELOPER&amp;jobPostId=lnb2obortvfahbnf4wn5vucvbd&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Member of Technical Staff</a> - SpringSource Tools Developer (San Francisco, CA)</li>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=SR.+MEMBER+OF+TECHNICAL+STAFF+-+SPRINGSOURCE+TOOLS+DEVELOPER&amp;jobPostId=r5aewjz6kjbx3cxzqurgr33gef&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Sr. Member of Technical Staff</a> - SpringSource Tools Developer (Vancouver, Canada)</li>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=SR.+MEMBER+OF+TECHNICAL+STAFF+-+SPRINGSOURCE+GRAILS+DEVELOPER&amp;jobPostId=wedyvbzginazvbln3cvo6srgve&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Sr. Member of Technical Staff</a> - SpringSource Grails Developer (Eastern US)</li>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=SR.+MTS+-+JAVA+SERVER-SIDE+DEVELOPER&amp;jobPostId=o2ffdqmi25dvdo4gbk5yclwjle&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Sr. Member Technical Staff</a> - Java Server-Side Developer (San Francisco, CA)</li>
+<li><a href="http://recruit.trovix.com/jobhostmaster/jobhost/ViewJobPostDetails.do?title=SR.+MTS+-+JAVA+SERVER-SIDE+DEVELOPER&amp;jobPostId=xbedy4r6nbektowfj5ucvesgdc&amp;accountId=dd4c3b856af1a82ca689f9e48a745c234f714483&amp;button=&amp;action=viewDetails&amp;tid=0207-d7vkpclplzfflp5hfo2si7pjva">Sr. Member Technical Staff</a> - Java Server-Side Developer (San Francisco, CA)</li>
+</ul>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2277"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2277">dm Server project moves to Eclipse.org</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Adam Fitzgerald on Tue, 2010-01-12 10:30    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p><a href="http://www.springsource.com">SpringSource</a> and the <a href="http://eclipse.org">Eclipse Foundation</a> have just <a href="http://blog.springsource.com/2010/01/12/dm-server-project-moves-to-eclipse-org/">announced</a> a new project proposal, <a href="http://eclipse.org/proposals/virgo/">Project Virgo</a>, whose primary goal is to provide a runtime platform for the development of server-side enterprise applications built on top of Equinox. The project will become the new home for <a href="http://www.springsource.com/products/dmserver">SpringSource dm Server</a> and will be a part of the <a href="http://www.eclipse.org/rt">Eclipse Runtime (RT)</a> project. Other dm Server related projects, such as <a href="/bundlor">Bundlor</a> and the <a href="/dmservertools">dm Server Eclipse tools</a> will also move to over to the Eclipse community as part of the proposal. <a href="http://blog.springsource.com/author/adrianc/">Adrian Colyer</a>'s <a href="http://blog.springsource.com/2010/01/12/dm-server-project-moves-to-eclipse-org/">blog post</a> covers all the details about the move and the Eclipse Foundation's executive director, <a href="http://dev.eclipse.org/blogs/mike/">Mike Milinkovich</a> also weighs in with his <a href="http://dev.eclipse.org/blogs/mike/2010/01/12/one-big-step-for-eclipsert/">perspective</a>.</p>
+<p>The project proposal coincides with the community final release today of the 2.0.0 version of dm Server. </p>
+<p><a href="http://www.springsource.com/download/community?project=SpringSource%20dm%20Server">Download</a> | <strong>Documentation:</strong> <a href="http://static.springsource.org/s2-dmserver/2.0.x/user-guide/html/">User</a>-<a href="http://static.springsource.org/s2-dmserver/2.0.x/programmer-guide/html/">Programmer</a> | <a href="https://issuetracker.springsource.com/secure/RunPortlet.jspa?portletKey=com.pyxis.greenhopper.jira:greenhopper-releasenotes&amp;projectid=10054&amp;fields=,summary&amp;versionId=10171&amp;includeSubs=false">Release Notes</a> | <a href="https://issuetracker.springsource.com/browse/DMS">JIRA</a> | <a href="http://forum.springsource.org/forumdisplay.php?f=53">Forums</a></p>
+<p>Community member that are using dm Server or anyone interested in using OSGi in an enterprise setting are encouraged to read the <a href="http://www.eclipse.org/proposals/virgo/">Project Virgo</a> proposal and give input via the <a href="http://eclipse.org/forums/eclipse.virgo">Virgo community forum</a>.</p>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2274"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2274">Spring Roo Video and Interview </a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Adam Fitzgerald on Thu, 2010-01-07 17:59    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p> 
+<div style="float: right; width:248px; padding: 10px">
+<a href="http://www.infoq.com/presentations/Introducing-Spring-Roo"><img height="174" alt="Spring Roo Presentation" width="248" border="0" src="/files/SpringRooWithBenAlex.png" /></a>
+</div>
+<a href="http://www.infoq.com">Infoq</a> have just posted two videos about <a href="/roo">Spring Roo</a>, recorded at last year's <a href="http://www.springone2gx.com">SpringOne 2GX</a> conference. Both videos feature, Dr <a href="http://blog.springsource.com/author/bena/">Ben Alex</a>, the creator of Spring Roo and Principal Software Engineer at <a href="http://www.springsource.com">SpringSource</a>.
+</p>
+<p>
+<ul>
+   <li><a href="http://www.infoq.com/presentations/Introducing-Spring-Roo">Introducing Spring Roo</a>: This presentation gives a fast overview of Spring Roo in action to create an application from scratch. It then discusses in detail the options used in each stage and how the Roo handles these options via ITDs and aspects. </li>
+   <li><a href="http://www.infoq.com/interviews/roo-ben-alex">Ben Alex Interview</a>: In this interview, Ben discusses some of the features and goals behind Spring Roo, discusses the shell environment that was developed to assist with rapid application development and talks a little about new features in <a href="http://static.springsource.org/spring-security/site/index.html">Spring Security</a>.   </li>
+</ul>
+</p>
+<p>
+If you haven't already tried Spring Roo, give it a go, or try out the integrated tooling available in <a href="http://www.springsource.com/products/sts">SpringSource Tool Suite</a>. </p>
+<br />  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2273"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2273">Spring Roo 1.0.0 (GA) Released</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Ben Alex on Thu, 2009-12-31 02:36    </div>
+  
+  
+  <div class="content">
+    <p>We're delighted to announce the general availability (GA) of <a href="http://www.springsource.org/roo">Spring Roo</a> 1.0.0.</p>
+<p>Spring Roo is a next-generation rapid application development tool for Java developers. With Roo you can easily build full Java applications in minutes. It differs from other tools by focusing on:</p>
+<ul>
+<li><em>Higher Java productivity</em>: Try the ten minute test and see for yourself.</li>
+<li><em>Stock-standard Java</em>: Roo uses the Java APIs and standards you already know and trust.</li>
+<li><em>Usable and learnable</em>: Roo features an extremely high level of usability and an advanced shell.</li>
+<li><em>No engineering trade-offs</em>: Roo has no runtime portion and does not impose any CPU, RAM or disk storage cost.</li>
+<li><em>Easy Roo removal</em>: Roo can be easily removed from a user project in under five minutes.</li>
+</ul>
+<p>This release follows some eight community releases (A1, A2, M1, M2, RC1, RC2, RC3, RC4) and extensive feedback. Before reaching Roo 1.0.0 we already had <a href="http://forum.springsource.org/forumdisplay.php?f=67">over 1,000 forum posts</a> and some <a href="http://jira.springsource.org/browse/ROO">500 Jira issues</a> logged. There's already been <a href="http://www.jaxitalia.com/konferenzen/jaxitalia09/speaker/#4566">dozens</a> <a href="http://www.slideshare.net/krimple/philly-spring-ug-roo-overview">of</a> <a href="http://europe.springone.com/europe-2009/presentation/Extreme+Productivity+in+Application+Development">conference</a> <a href="http://www.springone2gx.com/conference/new_orleans/2009/10/session?id=15641">and</a> <a href="http://www.springone2gx.com/conference/new_orleans/2009/10/session?id=15644">JUG</a> <a href="http://thestrangeloop.com/sessions/extreme-web-productivity-spring-roo">presentations</a> <a href="http://www.therichwebexperience.com/conference/orlando/2009/12/session?id=16629">on</a> <a href="http://qconlondon.com/london-2010/speaker/Rod+Johnson">Roo</a>, several third-party add-ons and there's even people already writing a commercial book on Roo.</p>
+<p>Spring Roo is thoroughly documented, with around 100 pages of detailed <a href="http://static.springsource.org/spring-roo/reference/index.html">documentation available online</a> and in the download ZIP. You can read a <a href="http://blog.springsource.com/2009/05/01/roo-part-1/">three-part</a> <a href="http://blog.springsource.com/2009/05/27/roo-part-2/">blog</a> <a href="http://blog.springsource.com/2009/06/18/roo-part-3/">series</a> introducing Roo, plus view recently-updated conference presentations (<a href="http://www.slideshare.net/benalexau/introduction-to-spring-roo-100-2805183">Introduction to Roo</a> and <a href="http://www.slideshare.net/benalexau/spring-roo-100-technical-deep-dive">Roo Technical Deep Dive</a>).</p>
+<p>You can <a href="http://www.springsource.com/download/community?project=Spring%20Roo">download</a> this new version of Roo, plus access key links at:</p>
+<ul><a href="http://www.springsource.org/roo">http://www.springsource.org/roo</a></ul>
+<p>We hope you that enjoy using Roo. The Roo team will be taking a short break to celebrate the New Year, and we look forward to hearing about your Roo experiences and following up with more Roo resources. Happy New Year!</p>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2272"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2272">Groovy &amp; Grails Release New Versions</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Adam Fitzgerald on Wed, 2009-12-23 12:00    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p> 
+<div style="float: right; width:248px; padding: 10px">
+<a href="http://www.infoq.com/interviews/Groovy-1.7-Grails-1.2"><img height="191" alt="Groovy and Grails Interview" width="248" border="0" src="/files/GraemeAndGuillaumeInfoQInterview.png" /></a>
+</div>
+Adding to the continued release train of open source software, both <a href="http://groovy.codehaus.org">Groovy</a> and <a href="http://www.grails.org">Grails</a> have just released new versions. In their recent interview with <a href="http://www.infoq.com/interviews/Groovy-1.7-Grails-1.2">InfoQ</a>, Grails lead, <a href="http://blog.springsource.com/author/grocher/">Graeme Rocher</a>, and Groovy maestro, <a href="http://blog.springsource.com/author/glaforge/">Guillaume Laforge</a>, talked about the releases.
+</p>
+<p>
+<ul>
+   <li><a href="http://grails.org/Download">Grails 1.2</a>: Graeme's recent <a href="http://blog.springsource.com/2009/12/23/grails-1-2-released/">blog post</a> details some of the improvements including, a Dependency Resolution DSL, extended integration with the new <a href="http://blog.springsource.com/2009/12/16/spring-framework-3-0-goes-ga/">Spring 3.0</a> and improvements to performance and memory consumption.</li>
+   <li><a href="http://groovy.codehaus.org/Download">Groovy 1.7</a>: In his latest <a href="http://blog.springsource.com/2009/12/22/groovy-1-7-released/">blog entry</a>, Guillaume discusses annotation enhancements, improved assertion capabilities, anonymous inner classes, GroovyConsole updates and much more. </li>
+</ul>
+</p>
+<p>
+If you haven't already tried our Groovy & Grails, put it on your New Year's resolution list. With the Groovy and Grails support included in <a href="http://www.springsource.com/products/sts">SpringSource Tool Suite</a> it has never been a better time to try it out. </p>
+<br />  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2271"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2271">Spring Security 3.0.0 Released</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Luke Taylor on Wed, 2009-12-23 08:41    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p>We're pleased to an announce the release of Spring Security 3.0.0.</p>
+<p>Thanks to everyone in the community who has helped out by testing the milestone and release candidate versions and providing feedback.</p>
+<p>Check out the <a href="http://static.springsource.org/spring-security/site/features.html">project website</a> for a list of supported features, and also the <a href="http://forum.springsource.org/showthread.php?t=82201">release announcement</a> in the community forum for information on changes which may affect you if you are upgrading. </p>
+<p>Look out for compatible releases of Spring Security Extensions projects (such as our Kerberos support) in the new year.</p>
+<p><a href="http://www.springsource.com/download/community?project=Spring%20Security&amp;version=3.0.0.RELEASE">Download</a> | <a href="https://jira.springsource.org/browse/SEC?report=com.atlassian.jira.plugin.system.project:changelog-panel">Changelog</a> | <a href="http://static.springsource.org/spring-security/site/docs/3.0.x/reference/springsecurity.html">Reference Manual</a> | <a href="http://static.springsource.org/spring-security/site/faq.html">FAQ</a></p>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="node " id="node-2270"><div class="node-inner">
+
+      <h2 class="title">
+      <a href="/node/2270">Now Available: SpringSource Tool Suite 2.3.0</a>
+    </h2>
+  
+  
+  
+      <div class="submitted">
+      Submitted by Adam Fitzgerald on Thu, 2009-12-17 19:06    </div>
+  
+      <div class="taxonomy"> in <ul class="links inline"><li class="taxonomy_term_4 first last"><a href="/taxonomy/term/4" rel="tag" title="News and announcements
+">News and Announcements</a></li>
+</ul></div>
+  
+  <div class="content">
+    <p>To assist all developers with their upgrade to <a href="http://blog.springsource.com/2009/12/16/spring-framework-3-0-goes-ga/">Spring 3.0 GA</a>, <a href="http://www.springsource.com">SpringSource</a> has released an update to <a href="http://www.springsource.com/products/sts">SpringSource Tool Suite</a> (STS), the best Eclipse-powered development environment for building Spring, Groovy and Grails powered enterprise applications. The new version (2.3.0) is now available for <a href="http://www.springsource.com/products/springsource-tool-suite-download">download</a> and includes:</p>
+<ul>
+<li>Comprehensive updates to support all new Spring 3.0.0.RELEASE features. </li>
+<li>New support for <a href="/spring-integration">Spring Integration</a>, <a href="http://static.springsource.org/spring-ws/sites/1.5/">Spring Web Services</a> and <a href="/spring-flex">Spring BlazeDS/Flex</a> namespaces.</li>
+<li>Updates to support the recent <a href="/roo">Spring Roo</a> 1.0.0.RC4.</li>
+<li>Improved <a href="http://www.grails.org">Grails</a> tooling, including support for the latest Grails 1.2 snapshot.</li>
+</ul>
+<p><a href="http://www.springsource.com/products/springsource-tool-suite-download">Download</a> | <a href="https://issuetracker.springsource.com/secure/ReleaseNote.jspa?version=10484&amp;styleName=Html&amp;projectId=10010">ChangeLog</a> | <a href="http://download.springsource.com/release/STS/doc/STS-new_and_noteworthy-2.3.0.RELEASE.pdf">New &amp; Noteworthy</a> | <a href="http://issuetracker.springsource.com/browse/STS">JIRA</a></p>
+<p>We hope you enjoy using STS and please use the <a href="http://forum.springsource.org/forumdisplay.php?f=32">community forum</a> to give your feedback and ask questions.</p>
+  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul>    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/node?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item"><a href="/node?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item"><a href="/node?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item"><a href="/node?page=5" title="Go to page 6" class="active">6</a></li>
+<li class="pager-item"><a href="/node?page=6" title="Go to page 7" class="active">7</a></li>
+<li class="pager-item"><a href="/node?page=7" title="Go to page 8" class="active">8</a></li>
+<li class="pager-item"><a href="/node?page=8" title="Go to page 9" class="active">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/node?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=74" title="Go to last page" class="active">last »</a></li>
+</ul></div>        </div>
+
+                  <div class="feed-icons"><a href="http://www.springsource.org/node/feed" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="SpringSource.org RSS" width="16" height="16" /></a></div>
+        
+                  <div id="content-bottom">
+            <div id="block-block-16" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <div align="center" id="footer">
+Copyright 2010,<a href="http://www.springsource.org">www.springsource.org</a>&nbsp;&nbsp;-&nbsp; <a href="/node/feed">RSS</a> - Managed Hosting by <a target="_blank" href="http://www.contegix.com">Contegix</a> - Site maintained by <a href="http://www.springsource.com">SpringSource</a>.
+</div>
+
+<!-- Begin Crazy Egg code -->
+  <script type="text/javascript" src="http://cetrk.com/pages/scripts/0007/2991.js"> </script> 
+<!-- End Crazy Egg code -->
+
+<!-- Begin Marketo tracking code -->
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>mktoMunchkin("649-KCC-493");</script>
+<!-- End Marketo tracking code -->
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+          </div> <!-- /#content-bottom -->
+        
+      </div></div> <!-- /#content-inner, /#content -->
+              <div id="sidebar-left"><div id="sidebar-left-inner">
+          <div id="block-block-15" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <a target="_blank" href="http://www.springsource.com/webinars/tcserver_webinar_series"><img class="sidebar-no-border" alt="" src="/files/tc_Server_Webinar_Series.jpg" /></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-3" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <p><strong>Upcoming Trainings:</strong></p>
+
+<p><strong><a href="http://www.springsource.com/training/spr001">Core Spring Framework</a></strong><br />
+Jan 05 – 08: Boston<br />
+Jan 06 – 09: Chicago<br />
+Jan 18 – 21: Dubai<br />
+Jan 19 – 22: Amsterdam<br />
+Jan 19 – 22: Frankfurt<br />
+Jan 19 – 22: Hong Kong<br />
+
+<p><a href="http://www.springsource.com/training/rwa001"><strong>Rich Web Applications with Spring</strong></a><br />
+Jan 12 – 15: London<br />
+Jan 19 – 22: Brussels<br />
+Jan 26 – 29: Atlanta<br />
+
+<p><a href="http://www.springsource.com/training/spr002"><strong>Enterprise Integration with Spring </strong></a><br />
+Jan 05 – 08: San Francisco<br />
+Jan 12 – 15: Wien<br />
+Jan 18 – 21: Bangalore<br />
+
+<p><strong>Plus:</strong></p>
+<p>OSGi, Hibernate, Tomcat, Spring.NET, Groovy &amp; Grails <a href="http://www.springsource.com/training/?side">and more...</a><strong> </strong></p>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-user-1" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf last"><a href="/tracker">Recent posts</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-user-0" class="block "><div class="block-inner">
+
+      <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-2ab7263ba37def131a6deccfa91f1754" value="form-2ab7263ba37def131a6deccfa91f1754"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
+      
+              <div id="sidebar-right"><div id="sidebar-right-inner">
+          <div id="block-block-12" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://www.springsource.com/spring-framework-consulting"><img class="sidebar-no-border" alt="" src="/files/spring-consultant1.png" /></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-14" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <!--break-->
+<a href="http://www.springsource.com/training/freeonline/osgi"><img class="sidebar-no-border" border="0" src="/files/osgi-training.png" alt="" /></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-event-1" class="block "><div class="block-inner">
+
+      <h2 class="title">Upcoming events</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/spring-workshop/singapore" title="Spring 3.0 Workshop - Singapore">Spring 3.0 Workshop - Singapore</a><span class="event-nodetype">(Event)</span><span class="event-timeleft">(11 days)</span></li>
+<li class="last"><a href="/spring-event-spain" title="Spring 2GX Day - Madrid, Spain ">Spring 2GX Day - Madrid, Spain </a><span class="event-nodetype">(Event)</span><span class="event-timeleft">(29 days)</span></li>
+</ul></div><div class="ical-link"><a href="http://www.springsource.org/event/ical" title="Add this calendar to your iCalendar"><img src="/sites/all/modules/event/images/ical16x16.gif" alt="Add to iCalendar" /></a></div><div class="more-link"><a href="/event" title="More events.">more</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-2" class="block "><div class="block-inner">
+
+  
+  <div class="content">
+    <p><a href="http://www.contegix.com/" target="_blank"><img border="0" alt="Contegix Managed Hosting and Colocation" src="http://static.springframework.org/buttons/contegix_spring2.jpg" /><br>
+  <br />
+</a><a href="http://www.atlassian.com/software/jira/" target="_blank"><img border="0" alt="Atlassian JIRA Issue Tracking" src="http://static.springframework.org/buttons/jira.png" /></a> <br />
+<br />
+<a href="http://www.headwaysoftware.com/products/structure101/" target="_blank"><img border="0" alt="Structure101" src="http://static.springframework.org/buttons/structure101d.gif" /></a> <br />
+<br />
+<a href="http://www.yourkit.com/" target="_blank"><img border="0" alt="Yourkit Java Profiler" src="http://static.springframework.org/buttons/yourkit.gif" /></a> <br />
+<br />
+<a href="http://www.cenqua.com/clover" target="_blank"><img border="0" alt="Clover Code Coverage Tool" src="http://static.springframework.org/buttons/clovered1.gif" /></a> <br />
+<br />
+<a href="http://www.hello2morrow.com/en/sonarj/sonarj.php" target="_blank"><img border="0" alt="Architecture management for Java projects" src="http://static.springframework.org/buttons/sonarj-150px-transp.gif" /></a> <br />
+<a href="http://www.aquafold.com">
+<img src="http://www.aquafold.com/images/s_aquadatastudio_130x34.gif" alt="Aqua Data Studio" width="130" height="34" border="0">
+</a><br />
+<a href="http://petition.eurolinux.org/"><br />
+</a></p> 
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
+      
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+
+      <div id="footer-message"></div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+
+    
+    
+  </div></div> <!-- /#page-inner, /#page -->
+
+<script type="text/javascript">
+<!--
+$(document).ready(
+    function() {
+        var isInternal = new RegExp("^(https?):\/\/www.springsource", "i");
+        var isDownload = new RegExp("\\.(tgz|jar|html|7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip)\\??.*$", "i");
+
+//        pageTracker._setDomainName("none");
+//        pageTracker._setAllowLinker(true);
+
+        $('a').each(function() {
+            try {
+
+                if (isDownload.test(this.href)) {
+                    if (isInternal.test(this.href)) {
+                        $(this).click(function() {
+                            var sendToGA = this.href.replace(/^(https?):\/\//, '');
+                            pageTracker._trackPageview('/internalDownload/'+sendToGA.replace(/\?.+$/, ''));
+                        });
+                    } else if(this.href.length > 0) {
+                        $(this).click(function() {
+                            var sendToGA = this.href.replace(/^(https?):\/\//, '');
+                            pageTracker._trackPageview('/externalDownload/'+sendToGA.replace(/\?.+$/, ''));
+                            setTimeout("document.location.href='"+this.href+"'", 200);
+                            return false;
+                        });
+                    } 
+                }
+
+                if (this.href.match("springsource.com")) {
+                    $(this).click(function() {
+                        if ($(this).attr('target') == "_blank") {
+                            window.open(pageTracker._getLinkerUrl(this.href));
+                        } else {
+                            pageTracker._link(this.href);
+                        }
+                        return false;
+                    });
+                }
+            } catch(e) {  }
+        });
+    }
+);
+-->
+</script>
+
+</body>
+</html>

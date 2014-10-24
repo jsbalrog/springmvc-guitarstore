@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.springframework.org/schema/context" uri="www.springframework.org/schema/context"/>
+    <system systemId="http://www.springframework.org/schema/context/s" uri="www.springsource.org"/>
+    <system systemId="http://www.springframework.org/schema/context/spring-" uri="www.springsource.org"/>
+    <system systemId="http://www.directwebremoting.org" uri="directwebremoting.org/dwr/index.html"/>
+    <system systemId="http://www.directwebremoting.org/schema/spring-dwr-2.0.xsd" uri="www.directwebremoting.org/schema/spring-dwr-2.0.xsd"/>
+</catalog>
+
+
+
